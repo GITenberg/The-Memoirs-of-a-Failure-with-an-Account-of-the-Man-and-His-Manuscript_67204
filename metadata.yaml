@@ -1,11 +1,16 @@
 _repo: The-Memoirs-of-a-Failure-with-an-Account-of-the-Man-and-His-Manuscript_67204
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67204-h/images/cover.jpg
 creator:
   author:
     agent_name: Kittredge, Daniel Wright
     gutenberg_agent_id: '54154'
     url: http://www.gutenberg.org/2009/agents/54154
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67204#The-Memoirs-of-a-Failure-with-an-Account-of-the-Man-and-His-Manuscript
 gutenberg_issued: '2022-01-20'
 identifiers:
   gutenberg: '67204'
